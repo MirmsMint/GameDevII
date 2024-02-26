@@ -133,7 +133,7 @@
                     "name": "",
                     "id": "b4309f9d-dc55-43de-a038-7021b57150c0",
                     "path": "<Mouse>/leftButton",
-                    "interactions": "",
+                    "interactions": "Hold(duration=0.1)",
                     "processors": "",
                     "groups": "",
                     "action": "Primary Fire",
